@@ -1,0 +1,24 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"scripts\": {"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"scripts\": {"
+  },
+  "keywords": [
+    "\"test\":",
+    "\"echo",
+    "'Hello",
+    "World!'\""
+  ],
+  "author": "}",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
